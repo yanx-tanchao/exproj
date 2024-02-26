@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/exproj-common/exproj-common-aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exproj-common/exproj-common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exproj-common/exproj-common-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exproj-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exproj-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exproj-dependencies/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exproj-dependencies/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exproj-module/exproj-module-mdm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exproj-module/exproj-module-mk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exproj-module/exproj-module-pds/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exproj-module/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exproj-module/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exproj-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
